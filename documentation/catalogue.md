@@ -1,0 +1,1 @@
+# Propriétés **récupérables** des individus
