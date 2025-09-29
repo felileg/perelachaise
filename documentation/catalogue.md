@@ -7,16 +7,20 @@ Liste des objets (items uniques identifiables: individus, lieux, groupes) et de 
 -
 -
 -
-Organisations
+### Organisations
 -
 -
 -
 -
-Lieux
+### Lieux
 -
 -
 -
 -
 
 ## Relations entre objets
+-
+- 
+- 
+-
 
