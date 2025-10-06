@@ -30,9 +30,9 @@ Liste des objets (items uniques identifiables: individus, lieux, groupes) et de 
 - _je sais pas si c'est pertinent puisqu'on parle pas de chercheur-euses mais bien de gens morts lol_
 
 ## Relations entre objets
-- personne est née dans lieu
-- 
-- 
+- personne être née dans lieu
+- personne être formée dans organisation
+- etc
 - 
 
 ## Questions
