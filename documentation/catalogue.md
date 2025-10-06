@@ -41,6 +41,3 @@ Liste des objets (items uniques identifiables: individus, lieux, groupes) et de 
     - personne est membre de famille
     - personne appartient à milieu social
 
-
-> trop bien le markdown  
-
