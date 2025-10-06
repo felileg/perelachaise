@@ -32,6 +32,7 @@ Liste des objets (items uniques identifiables: individus, lieux, groupes) et de 
 ## Relations entre objets
 - personne être née dans lieu
 - personne être formée dans organisation
+- personne appartenir a famille
 - etc.
 - 
 
