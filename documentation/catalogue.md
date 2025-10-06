@@ -27,7 +27,7 @@ Liste des objets (items uniques identifiables: individus, lieux, groupes) et de 
 - référence bibliographique
 - année de publication
 - lieu de publication
-- **je sais pas si c'est pertinent puisqu'on parle pas de chercheur-euses mais bien de gens morts lol**
+- _je sais pas si c'est pertinent puisqu'on parle pas de chercheur-euses mais bien de gens morts lol_
 
 ## Relations entre objets
 - 
