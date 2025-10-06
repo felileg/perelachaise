@@ -27,7 +27,7 @@ Liste des objets (items uniques identifiables: individus, lieux, groupes) et de 
 - référence bibliographique
 - année de publication
 - lieu de publication
-- je sais pas si c'est pertinent puisqu'on parle pas de chercheur-euses mais bien de gens morts (entre parenthèses lol)
+- **je sais pas si c'est pertinent puisqu'on parle pas de chercheur-euses mais bien de gens morts lol**
 
 ## Relations entre objets
 - 
@@ -39,4 +39,8 @@ Liste des objets (items uniques identifiables: individus, lieux, groupes) et de 
 - Une famille ou un milieu social est-elle un objet?
     - personne est membre de famille
     - personne appartient à milieu social
-    
+
+
+> trop bien le markdown  
+> ca slay
+
