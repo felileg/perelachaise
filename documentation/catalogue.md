@@ -3,7 +3,7 @@ Liste des objets (items uniques identifiables: individus, lieux, groupes) et de 
 
 ## Objets et leurs propriétés
 ### Personnes
-- 
+-
 -
 -
 -
